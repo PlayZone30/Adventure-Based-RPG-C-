@@ -1,6 +1,4 @@
 # Adventure-Based-RPG-C++
-
-
 The princess of the kingdom of CPeria has been captured by an evil wizard and placed in a castle guarded by monsters. Your job is to set her free and bring her back outside the castle
 
 ## How to Run
@@ -17,5 +15,4 @@ Just run __game.exe__. If it doesnt work, then add the .txt files and the .cpp f
 - If the user exits the castle without rescuing the princess, the text in a file called EndLose.txt should be displayed and the game should end.
 
 ### Interface
-![interface](https://github.com/PlayZone30/Adventure-Based-RPG-C-/assets/133949037/9896257e-3a47-4e00-9b9f-cc235616c51c)
-
+![c++](https://github.com/PlayZone30/Adventure-Based-RPG-C-/assets/133949037/d5460af1-3a87-48da-99f2-e00e1dcbdc0f)
